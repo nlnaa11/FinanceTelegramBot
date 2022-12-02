@@ -1,1 +1,1 @@
-# financeTelegramBot
+# FinanceTelegramBot
